@@ -24,9 +24,11 @@ O projeto foi posteriormente enviado ao GitHub para versionamento e compartilham
 
 ### Página Inicial
 Print da tela inicial desenvolvida no Stitch Google.
+<img width="210" height="1600" alt="Mídia" src="https://github.com/user-attachments/assets/27a87844-f85e-4da5-a0e7-17c52ef64c18" />
 
 ### Página de Indicações
 Print da tela de listagem de comércios e serviços locais.
+<img width="216" height="1600" alt="Mídia (1)" src="https://github.com/user-attachments/assets/19720e1d-f320-403b-8635-8c0e29c3240d" />
 
 ## Prompt Estruturado Utilizado no Stitch
 
@@ -83,11 +85,11 @@ Arquivos criados:
 
 ### Repositório GitHub
 Link do projeto:
-[Adicionar link do GitHub aqui]
-
+https://github.com/cassiomello21/indica-carapicuiba
 ### Deploy na Vercel
 Link do site publicado:
-[Adicionar link da Vercel aqui]
+https://indica-carapicuiba.vercel.app/<img width="210" height="1600" alt="Mídia" src="https://github.com/user-attachments/assets/bf9b4e5c-dc56-400c-8c5f-92ab10b7f311" />
+
 
 ## Conclusão
 
